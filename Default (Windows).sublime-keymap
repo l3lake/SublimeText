@@ -1,0 +1,6 @@
+[
+  { "keys": ["alt+/"], "command": "toggle_side_bar" },
+  { "keys": ["ctrl+/"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+  { "keys": ["ctrl+shift+/"], "command": "toggle_comment", "args": { "block": true } }
+]
